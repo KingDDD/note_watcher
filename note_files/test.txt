@@ -1,0 +1,8 @@
+#fdfasd
+
+import team
+'this is a test file'
+
+
+for line in line while open($path)
+
